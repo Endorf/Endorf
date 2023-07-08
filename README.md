@@ -4,7 +4,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Endorf&theme=merko" alt="Endorf" height="190"/>  
     </th>
     <th>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endorf&layout=compact&theme=merko" alt="Endorf" height="190"/>  
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endorf&layout=compact&theme=merko&hide=CMake,HTML,C%2B%2B" alt="Endorf" height="190"/>  
     </th>
   </tr>
   <tr >
