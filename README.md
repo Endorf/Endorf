@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**Endorf/Endorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table >
+  <tr>
+    <th>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Endorf&theme=merko" alt="Endorf" height="190"/>  
+    </th>
+    <th>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endorf&layout=compact&theme=merko" alt="Endorf" height="190"/>  
+    </th>
+  </tr>
+  <tr >
+    <th colspan="2">
+      <center>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Endorf&theme=merko" alt="Endorf" />  
+      </center>
+    </th>
+  </tr>
+</table>
