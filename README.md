@@ -13,7 +13,7 @@
     <th colspan="2">
       <center>      
         <a href="">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endorf&theme=merko&layout=compact&hide=CMake,HTML,C%2B%2B" alt="Most Used Languages" height="190" />  
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endorf&theme=merko&layout=compact&hide=CMake,HTML,C%2B%2B" alt="Most Used Languages" height="180" />  
         </a>
       </center>
     </th>
